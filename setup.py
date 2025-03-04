@@ -7,5 +7,5 @@ setup(
     author="Johnathan Tenny",
     author_email="jt893@nau.edu",
     description="Iterative height filtering algorithm and other DTM utils",
-    url="",
+    url="https://github.com/j-tenny/dtm_utils",
 )
